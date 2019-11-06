@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "label": "Akolita"
+  },
+  {
+    "id": 2,
+    "label": "Banita"
+  },
+  {
+    "id": 3,
+    "label": "Berserker Z Norski"
+  },
+  {
+    "id": 4,
+    "label": "Chłop"
+  },
+  {
+    "id": 5,
+    "label": "Ciura obozowa"
+  },
+  {
+    "id": 6,
+    "label": "Cyrkowiec"
+  },
+  {
+    "id": 7,
+    "label": "Cyrulik"
+  },
+  {
+    "id": 8,
+    "label": "Fanatyk"
+  },
+  {
+    "id": 9,
+    "label": "Flisak"
+  },
+  {
+    "id": 10,
+    "label": "Giermek"
+  },
+  {
+    "id": 11,
+    "label": "Gladiator"
+  },
+  {
+    "id": 12,
+    "label": "Goniec"
+  },
+  {
+    "id": 13,
+    "label": "Górnik"
+  },
+  {
+    "id": 14,
+    "label": "Guślarz"
+  },
+  {
+    "id": 15,
+    "label": "Hiena cmentarna"
+  },
+  {
+    "id": 16,
+    "label": "Kanciarz"
+  },
+  {
+    "id": 17,
+    "label": "Kozak kislevski"
+  },
+  {
+    "id": 18,
+    "label": "Leśnik"
+  },
+  {
+    "id": 19,
+    "label": "Łowca"
+  },
+  {
+    "id": 20,
+    "label": "Łowca nagród"
+  },
+  {
+    "id": 21,
+    "label": "Mieszczanin"
+  },
+  {
+    "id": 22,
+    "label": "Mytnik"
+  },
+  {
+    "id": 23,
+    "label": "Najemnik"
+  },
+  {
+    "id": 24,
+    "label": "Ochotnik"
+  },
+  {
+    "id": 25,
+    "label": "Ochroniarz"
+  },
+  {
+    "id": 26,
+    "label": "Oprych"
+  },
+  {
+    "id": 27,
+    "label": "Paź"
+  },
+  {
+    "id": 28,
+    "label": "Podżegacz"
+  },
+  {
+    "id": 29,
+    "label": "Porywacz zwłok"
+  },
+  {
+    "id": 30,
+    "label": "Posłaniec"
+  },
+  {
+    "id": 31,
+    "label": "Przemytnik"
+  },
+  {
+    "id": 32,
+    "label": "Przepatrywacz"
+  },
+  {
+    "id": 33,
+    "label": "Przewoźnik"
+  },
+  {
+    "id": 34,
+    "label": "Rybak"
+  },
+  {
+    "id": 35,
+    "label": "Rzecznik rodu"
+  },
+  {
+    "id": 36,
+    "label": "Rzemieślnik"
+  },
+  {
+    "id": 37,
+    "label": "Rzezimieszek"
+  },
+  {
+    "id": 38,
+    "label": "Skryba"
+  },
+  {
+    "id": 39,
+    "label": "Sługa"
+  },
+  {
+    "id": 40,
+    "label": "Strażnik"
+  },
+  {
+    "id": 41,
+    "label": "Strażnik dróg"
+  },
+  {
+    "id": 42,
+    "label": "Strażnik pól"
+  },
+  {
+    "id": 43,
+    "label": "Strażnik więzienny"
+  },
+  {
+    "id": 44,
+    "label": "Szczurołap"
+  },
+  {
+    "id": 45,
+    "label": "Szermierz estalijski"
+  },
+  {
+    "id": 46,
+    "label": "Szlachcic"
+  },
+  {
+    "id": 47,
+    "label": "Śmieciarz"
+  },
+  {
+    "id": 48,
+    "label": "Tarczownik"
+  },
+  {
+    "id": 49,
+    "label": "Uczeń czarodzieja"
+  },
+  {
+    "id": 50,
+    "label": "Węglarz"
+  },
+  {
+    "id": 51,
+    "label": "Włóczykij"
+  },
+  {
+    "id": 52,
+    "label": "Wojownik klanowy"
+  },
+  {
+    "id": 53,
+    "label": "Woźnica"
+  },
+  {
+    "id": 54,
+    "label": "Zabójca trolli"
+  },
+  {
+    "id": 55,
+    "label": "Zarządca"
+  },
+  {
+    "id": 56,
+    "label": "Złodziej"
+  },
+  {
+    "id": 57,
+    "label": "Żak"
+  },
+  {
+    "id": 58,
+    "label": "Żeglarz"
+  },
+  {
+    "id": 59,
+    "label": "Żołnierz"
+  },
+  {
+    "id": 60,
+    "label": "Żołnierz okrętowy"
+  },
+  {
+    "id": 61,
+    "label": "Arcykapłan"
+  },
+  {
+    "id": 62,
+    "label": "Arcymag"
+  },
+  {
+    "id": 63,
+    "label": "Arystokrata"
+  },
+  {
+    "id": 64,
+    "label": "Bard"
+  },
+  {
+    "id": 65,
+    "label": "Biczownik"
+  },
+  {
+    "id": 66,
+    "label": "Bosman"
+  },
+  {
+    "id": 67,
+    "label": "Demagog"
+  },
+  {
+    "id": 68,
+    "label": "Dworzanin"
+  },
+  {
+    "id": 69,
+    "label": "Fechtmistrz"
+  },
+  {
+    "id": 70,
+    "label": "Herold"
+  },
+  {
+    "id": 71,
+    "label": "Herszt Banitów"
+  },
+  {
+    "id": 72,
+    "label": "Inżynier"
+  },
+  {
+    "id": 73,
+    "label": "Kapitan"
+  },
+  {
+    "id": 74,
+    "label": "Kapłan"
+  },
+  {
+    "id": 75,
+    "label": "Karczmarz"
+  },
+  {
+    "id": 76,
+    "label": "Książe złodziei"
+  },
+  {
+    "id": 77,
+    "label": "Kupiec"
+  },
+  {
+    "id": 78,
+    "label": "Leśny duch"
+  },
+  {
+    "id": 79,
+    "label": "Łowca czarownic"
+  },
+  {
+    "id": 80,
+    "label": "Łowca wampirów"
+  },
+  {
+    "id": 81,
+    "label": "Majordomus"
+  },
+  {
+    "id": 82,
+    "label": "Medyk"
+  },
+  {
+    "id": 83,
+    "label": "Mistrz cieni"
+  },
+  {
+    "id": 84,
+    "label": "Mistrz gildii"
+  },
+  {
+    "id": 85,
+    "label": "Mistrz magii"
+  },
+  {
+    "id": 86,
+    "label": "Mistrz rzemiosła"
+  },
+  {
+    "id": 87,
+    "label": "Mistrz zakonny"
+  },
+  {
+    "id": 88,
+    "label": "Nawigator"
+  },
+  {
+    "id": 89,
+    "label": "Odkrywca"
+  },
+  {
+    "id": 90,
+    "label": "Oficer"
+  },
+  {
+    "id": 91,
+    "label": "Oprawca"
+  },
+  {
+    "id": 92,
+    "label": "Paser"
+  },
+  {
+    "id": 93,
+    "label": "Rajtar"
+  },
+  {
+    "id": 94,
+    "label": "Reketer"
+  },
+  {
+    "id": 95,
+    "label": "Rozbójnik"
+  },
+  {
+    "id": 96,
+    "label": "Rycerz"
+  },
+  {
+    "id": 97,
+    "label": "Sierżant"
+  },
+  {
+    "id": 98,
+    "label": "Skrytobójca"
+  },
+  {
+    "id": 99,
+    "label": "Strzelec"
+  },
+  {
+    "id": 100,
+    "label": "Szampierz"
+  },
+  {
+    "id": 101,
+    "label": "Szarlatan"
+  },
+  {
+    "id": 102,
+    "label": "Szpieg"
+  },
+  {
+    "id": 103,
+    "label": "Uczony"
+  },
+  {
+    "id": 104,
+    "label": "Urzędnik"
+  },
+  {
+    "id": 105,
+    "label": "Weteran"
+  },
+  {
+    "id": 106,
+    "label": "Wędrowny czarodziej"
+  },
+  {
+    "id": 107,
+    "label": "Włamywacz"
+  },
+  {
+    "id": 108,
+    "label": "Wybraniec boży"
+  },
+  {
+    "id": 109,
+    "label": "Zabójca demonów"
+  },
+  {
+    "id": 110,
+    "label": "Zabójca olbrzymów"
+  },
+  {
+    "id": 111,
+    "label": "Zakonnik"
+  },
+  {
+    "id": 112,
+    "label": "Zwadźca"
+  },
+  {
+    "id": 113,
+    "label": "Zwiadowca"
+  },
+  {
+    "id": 114,
+    "label": "CHWALEBNA ŚMIERĆ!!!"
+  }
+]
